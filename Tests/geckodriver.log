@@ -1,0 +1,74 @@
+1608304612716	geckodriver	INFO	Listening on 127.0.0.1:51027
+1608304615809	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofileIgY4ju"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608304617400	Marionette	INFO	Listening on port 51035
+1608304617853	Marionette	WARN	TLS certificate errors will be ignored for this session
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+1608304629253	Marionette	INFO	Stopped listening on port 51035
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608304731462	geckodriver	INFO	Listening on 127.0.0.1:51126
+1608304734558	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofileEKGImz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608304736185	Marionette	INFO	Listening on port 51134
+1608304736620	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/utils.min.a53a609d64abb59ba4017351854c46d0.js, line 120: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/clientlibs/granite/jquery/granite.min.e67470fde615e2d442e08aad300a8905.js, line 17: ReferenceError: jQuery is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc.clientlibs/foundation/clientlibs/jquery.min.dd9b395c741ce2784096e26619e14910.js, line 1: ReferenceError: _g is not defined
+JavaScript error: https://c1.sfdcstatic.com/etc/clientlibs/sfdc-aem-master/clientlibs_analytics_login_top.min.079acc6ac381449fc3161fc4777ff535.js, line 64: ReferenceError: jQuery is not defined
+1608304750880	Marionette	INFO	Stopped listening on port 51134
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608304769084	geckodriver	INFO	Listening on 127.0.0.1:51206
+1608304772177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofiletcAcSS"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608304773736	Marionette	INFO	Listening on port 51214
+1608304774223	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608304778647	Marionette	INFO	Stopped listening on port 51214
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608543035993	geckodriver	INFO	Listening on 127.0.0.1:49449
+1608543039086	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofileoJCkHV"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608543040835	Marionette	INFO	Listening on port 49457
+1608543041148	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608543048504	Marionette	INFO	Stopped listening on port 49457
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1608543080303	geckodriver	INFO	Listening on 127.0.0.1:49508
+1608543083396	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofile5zTA6O"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1608543084862	Marionette	INFO	Listening on port 49516
+1608543084937	Marionette	WARN	TLS certificate errors will be ignored for this session
+1608543104559	Marionette	INFO	Stopped listening on port 49516
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
+1609177929378	geckodriver	INFO	Listening on 127.0.0.1:52263
+1609177932472	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Eli\\AppData\\Local\\Temp\\rust_mozprofileVLx1Nz"
+Can't find symbol 'eglSwapBuffersWithDamageEXT'.
+Can't find symbol 'eglSetDamageRegionKHR'.
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new Error("", "(unknown module)"))
+1609177935094	Marionette	INFO	Listening on port 52271
+1609177935156	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+1609177947526	Marionette	INFO	Stopped listening on port 52271
+
+###!!! [Child][RunMessage] Error: Channel closing: too late to send/recv, messages will be lost
+
